@@ -1,4 +1,4 @@
-### Olá, sou estudante desenvolvimento de sistemas! :computer:
+### Olá, sou estudante de desenvolvimento de sistemas! :computer:
 Adoro programação e tecnologia :sparkles:
 
 <!--
