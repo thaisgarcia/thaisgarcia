@@ -1,4 +1,5 @@
-### Olá, sou dev de sistemas! :computer:
+### Olá, sou estudante desenvolvimento de sistemas! :computer:
+Adoro programação e tecnologia :sparkles:
 
 <!--
 **thaisgarcia/thaisgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
