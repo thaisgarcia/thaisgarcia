@@ -1,4 +1,4 @@
-### Olá, sou estudante de DBA e Desenvolvimento de Sistemas! :computer:
+### Olá, sou estudante de Desenvolvimento de Sistemas! :computer:
 Adoro programação e tecnologia :sparkles:
 
 <!--
