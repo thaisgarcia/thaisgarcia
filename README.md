@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 <hr>
 
 <p> Linguagens e Ferramentas: </p>
-html c#
