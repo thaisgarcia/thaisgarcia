@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 <p> Linguagens e Ferramentas: </p>
 <img src="https://img.icons8.com/fluency/344/visual-studio.png" alt="vs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://img.icons8.com/color/344/c-sharp-logo-2.png" alt="vs" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://img.icons8.com/color/344/c-sharp-logo-2.png" alt="csharp" width="40" height="40" style="max-width:100%;"></img>
+<img src="<img src="https://img.icons8.com/color/344/c-sharp-logo-2.png" alt="java" width="40" height="40" style="max-width:100%;"></img>
