@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 <hr>
 
 <p> Linguagens e Ferramentas: </p>
+<img src="https://img.icons8.com/fluency/344/visual-studio.png" alt="vs" width="40" height="40" style="max-width:100%;"></img>
