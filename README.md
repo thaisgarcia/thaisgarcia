@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 </div>
 
 
-<!-- <p> Linguagens e Ferramentas: </p>
-<img src="https://img.icons8.com/fluency/344/visual-studio.png" alt="vs" width="40" height="40">
-<img src="https://img.icons8.com/color/344/c-sharp-logo-2.png" alt="csharp" width="40" height="40"> -->
+ ![Snake animation](https://github.com/thaisgarcia/thaisgarcia/blob/output/github-contribution-grid-snake.svg)
