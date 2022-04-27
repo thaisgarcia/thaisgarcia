@@ -1,4 +1,5 @@
 ### Olá, sou estudante de Desenvolvimento de Sistemas! :computer:
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/a28883c58470311ac6a27ed93e06469e.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br>
 
 <!--
 **thaisgarcia/thaisgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,4 +39,4 @@ Here are some ideas to get you started:
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/a28883c58470311ac6a27ed93e06469e.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br>
+
