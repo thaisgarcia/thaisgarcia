@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   <br/>
-  <div align="center">
+  <div>
     <a href="https://www.instagram.com/tha_grc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/thais-garcia-6474a6217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:thaisgarcia.t11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
