@@ -1,5 +1,5 @@
 ### Olá, sou estudante de Desenvolvimento de Sistemas! :computer:
-<a href="https://picasion.com/" align="center"><img src="https://i.picasion.com/pic92/a28883c58470311ac6a27ed93e06469e.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a>
+<a href="https://picasion.com/" margin="0 auto 0 auto"><img src="https://i.picasion.com/pic92/a28883c58470311ac6a27ed93e06469e.gif" width="150" height="150"  alt="https://picasion.com/" /></a>
 
 <!--
 **thaisgarcia/thaisgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
