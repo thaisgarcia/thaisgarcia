@@ -1,5 +1,5 @@
 ### Olá, sou estudante de Desenvolvimento de Sistemas! :computer:
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/a28883c58470311ac6a27ed93e06469e.gif" align="right"  width="150" height="150" border="0" alt="https://picasion.com/" /></a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/a28883c58470311ac6a27ed93e06469e.gif" align="center"  width="150" height="150" border="0" alt="https://picasion.com/" /></a>
 
 <!--
 **thaisgarcia/thaisgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <br></br><br></br>
-  <a href="https://www.instagram.com/tha_grc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/thais-garcia-6474a6217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thaisgarcia.t11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <br></br>
+  <br/><br/>
+  <div align="center">
+    <a href="https://www.instagram.com/tha_grc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/thais-garcia-6474a6217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:thaisgarcia.t11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+  <br/>
   <hr>
 
 <div align="center">
