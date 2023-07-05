@@ -1,23 +1,27 @@
-### Olá, sou técnica em Desenvolvimento de Sistemas! :computer:
+## Thais Garcia :computer:
+Sou formada pela Etec Jacinto Ferreira de Sá em Técnico em Desenvolvimento de Sistemas, onde também concluí o Ensino Médio com Qualificação Profissional de Administrador de Banco de Dados. 
+Como uma jovem profissional em constante evolução, estou sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no mercado de trabalho.
 
-  <br>
-  <div>
-    <a href="https://www.instagram.com/tha_grc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/thais-garcia-6474a6217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:thaisgarcia.t11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-  <br>
-  <hr>
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://web.dio.me/users/thaisgarcia_t11/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:thaisgarcia.t11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thais-garcia11/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E94D5F)](mailto:thaisgarcia.t11@gmail.com)
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Java" height="30vh" width="40vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="PHP" height="30vh" width="40vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="HTML" height="30vh" width="40vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30vh" width="40vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30vh" width="40vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Csharp" height="30vh" width="40vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Csharp" height="30vh" width="40vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="30vh" width="40vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+### Habilidades
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp&logoColor=30A3DC)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=E94D5F)
+![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=E94D5F)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=30A3DC)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)](https://docs.github.com/)
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaisgarcia&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaisgarcia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+### Meus Principais Projetos
+[![Biblioteca Escolar](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=biblioteca-escolar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/elidianaandrade/dio-lab-open-source](https://github.com/thaisgarcia/biblioteca-escolar))
+[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/digitalinnovationone/roadmaps](https://github.com/thaisgarcia/portfolio)https://github.com/thaisgarcia/portfolio))
