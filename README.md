@@ -1,4 +1,4 @@
-## Thais Garcia :computer:
+## Thais Garcia 
 Sou formada pela Etec Jacinto Ferreira de Sá em Técnico em Desenvolvimento de Sistemas, onde também concluí o Ensino Médio com Qualificação Profissional de Administrador de Banco de Dados. 
 Como uma jovem profissional em constante evolução, estou sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no mercado de trabalho.
 
@@ -6,7 +6,7 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://web.dio.me/users/thaisgarcia_t11/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:thaisgarcia.t11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thais-garcia11/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E94D5F)](mailto:thaisgarcia.t11@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E94D5F)](instagram.com/tha_grc)
 
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
