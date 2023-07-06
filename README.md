@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E94D5F&height=100&section=header"/>
-
 ## Thais Garcia 
 Sou formada pela Etec Jacinto Ferreira de Sá em Técnico em Desenvolvimento de Sistemas, onde também concluí o Ensino Médio com Qualificação Profissional de Administrador de Banco de Dados. 
 Como uma jovem profissional em constante evolução, estou sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no mercado de trabalho.
@@ -30,4 +28,3 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 [![Biblioteca Escolar](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=biblioteca-escolar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaisgarcia/biblioteca-escolar)
 [![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaisgarcia/portfolio)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E94D5F&height=100&section=footer"/>
