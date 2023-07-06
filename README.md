@@ -13,6 +13,8 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp&logoColor=30A3DC)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=E94D5F)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=30A3DC)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=E94D5F)
 ![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=30A3DC)](https://git-scm.com/doc) 
