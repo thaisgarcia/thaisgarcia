@@ -1,5 +1,5 @@
 ## Thais Garcia 
-Sou formada pela Etec Jacinto Ferreira de Sá em Técnico em Desenvolvimento de Sistemas, onde também concluí o Ensino Médio com Qualificação Profissional de Administrador de Banco de Dados. 
+Sou formada pela Etec Jacinto Ferreira de Sá em Técnico em Desenvolvimento de Sistemas, onde também concluí o Ensino Médio com Qualificação Profissional de Administrador de Banco de Dados. Atualmente, estou cursando Ciência de Dados na Fatec de Ourinhos.
 Como uma jovem profissional em constante evolução, estou sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no mercado de trabalho.
 
 ### Conecte-se comigo
