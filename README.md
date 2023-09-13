@@ -22,7 +22,7 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisgarcia&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisgarcia&show_icons=true&icon_color=30A3DC&theme=radical) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgarcia&layout=compact&theme=radical)
 
 ### Meus Principais Projetos
