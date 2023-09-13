@@ -26,6 +26,6 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgarcia&layout=compact&theme=radical)
 
 ### Meus Principais Projetos
-[![Biblioteca Escolar](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=biblioteca-escolar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaisgarcia/biblioteca-escolar)
-[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaisgarcia/portfolio)
+[![Biblioteca Escolar](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=biblioteca-escolar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/biblioteca-escolar)
+[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/portfolio)
 
