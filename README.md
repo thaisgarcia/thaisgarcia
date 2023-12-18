@@ -27,5 +27,5 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 
 ### Meus Principais Projetos
 [![Biblioteca Escolar](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=biblioteca-escolar&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/biblioteca-escolar)
-[![Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=chatbot&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/portfolio)
+[![Chatbot para Atendimentos de uma Barbearia](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=chatterbot-flask&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/chatterbot-flask)
 
