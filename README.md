@@ -1,6 +1,7 @@
-## Thais Garcia 
-Formei-me na Etec Jacinto Ferreira de Sá em Técnico em Desenvolvimento de Sistemas, realizando simultaneamente o Ensino Médio com Qualificação Profissional em Administração de Banco de Dados. Atualmente, estou cursando Ciência de Dados na Fatec de Ourinhos. <br>
-Como uma jovem profissional em constante evolução, estou sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no mercado de trabalho.
+## Thais Garcia <img src="https://media.giphy.com/media/19eB0RWAzSYayHoy9z/giphy.gif" align="center" height="50px" />
+Gostaria de compartilhar um pouco sobre minha trajetória profissional e paixão pela tecnologia. Cursei dois cursos técnicos na Etec Jacinto Ferreira de Sá: <strong> Desenvolvimento de Sistemas </strong> e 
+<strong> Ensino Médio com Qualificação Profissional de Administrador de Banco de Dados </strong>. Atualmente, estou dedicando-me ao curso de Ciência de Dados na Fatec de Ourinhos, ampliando meu conhecimento em análise e interpretação de dados. <br>
+Cada aprendizado e projeto moldam a profissional que estou me tornando, e estou ansiosa para abraçar as oportunidades que o futuro como cientista de dados reserva para mim.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://web.dio.me/users/thaisgarcia_t11/)
