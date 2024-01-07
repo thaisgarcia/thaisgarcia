@@ -21,6 +21,10 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
 
+### Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaisgarcia&bg_color=000000&color=bb447e&line=bb447e&point=3789c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisgarcia&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgarcia&langs_count=8&layout=compact&theme=radical&bg_color=000)
@@ -28,4 +32,3 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 ### Meus Principais Projetos
 [![Biblioteca Escolar](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=biblioteca-escolar&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/biblioteca-escolar)
 [![Chatbot para Atendimentos de uma Barbearia](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=chatterbot-flask&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/chatterbot-flask)
-
