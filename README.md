@@ -25,8 +25,7 @@ Como uma jovem profissional em constante evolução, estou sempre em busca de no
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaisgarcia&bg_color=000000&color=bb447e&line=bb447e&point=3789c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisgarcia&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical) 
+### Most Used Languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgarcia&langs_count=8&layout=compact&theme=radical&bg_color=000)
 
 ### Meus Principais Projetos
