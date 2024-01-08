@@ -23,7 +23,7 @@ Cada aprendizado e projeto moldam a profissional que estou me tornando, e estou 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
 
 ### Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaisgarcia&bg_color=000000&color=bb447e&line=bb447e&point=3789c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaisgarcia&bg_color=000000&color=bb447e&line=bb447e&point=3789c8&area=true&hide_border=true)](https://github.com/thaisgarcia/github-readme-activity-graph)
 
 
 ### Most Used Languages
