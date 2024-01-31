@@ -31,4 +31,4 @@ Cada aprendizado e projeto moldam a profissional que estou me tornando, e estou 
 
 ### Meus Principais Projetos
 [![Biblioteca Escolar](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=biblioteca-escolar&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/biblioteca-escolar)
-[![Chatbot para Atendimentos de uma Barbearia](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=chatterbot-flask&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/chatterbot-flask)
+[![Chatbot para Atendimentos de uma Barbearia](https://github-readme-stats.vercel.app/api/pin/?username=thaisgarcia&repo=deep-learning-image-definition&bg_color=000&show_icons=true&icon_color=30A3DC&theme=radical)](https://github.com/thaisgarcia/deep-learning-image-definition)
