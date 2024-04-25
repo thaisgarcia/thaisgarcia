@@ -8,6 +8,7 @@ Cada aprendizado e projeto moldam a profissional que estou me tornando, e estou 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:thaisgarcia.t11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thais-garcia11/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E94D5F)](https://www.instagram.com/tha_grc)
+[![Currículo Lattes](https://img.shields.io/badge/-Currículo%20Lattes-000000?style=for-the-badge&logo=curriculum-vitae&logoColor=white)](http://lattes.cnpq.br/7305263350315359)
 
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
