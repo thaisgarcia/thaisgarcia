@@ -1,4 +1,4 @@
-## Thais Garcia <img src="https://media.giphy.com/media/19eB0RWAzSYayHoy9z/giphy.gif" align="center" height="50px" />
+# Thais Garcia 
 
 Gostaria de compartilhar um pouco sobre minha trajetória profissional e paixão pela tecnologia. Cursei dois cursos técnicos na Etec Jacinto Ferreira de Sá: **Desenvolvimento de Sistemas** e **Ensino Médio com Qualificação Profissional de Administrador de Banco de Dados**. Atualmente, estou dedicando-me ao curso de **Ciência de Dados** na Fatec de Ourinhos, ampliando meu conhecimento em análise e interpretação de dados.
 
@@ -23,9 +23,6 @@ Cada aprendizado e projeto moldam a profissional que estou me tornando, e estou 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-
-### Gráfico de Atividades
-[![Gráfico de atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=thaisgarcia&bg_color=000000&color=bb447e&line=bb447e&point=3789c8&area=true&hide_border=false&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Linguagens mais Utilizadas
 ![Estatísticas do GitHub de linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgarcia&langs_count=8&layout=compact&theme=radical&bg_color=000)
