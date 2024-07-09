@@ -3,7 +3,7 @@
 Possuo formação técnica em Administração de Banco de Dados e Desenvolvimento de Sistemas pela Etec Jacinto Ferreira de Sá. Atualmente, estou cursando Ciência de Dados na Fatec de Ourinhos.
 
 ### 🔗 Conecte-se comigo
-[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-007ACC?style=flat-square&logoColor=white)](https://web.dio.me/users/thaisgarcia_t11/)
+[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-007ACC?style=flat-square&logoColor=white)](https://www.dio.me/users/thaisgarcia_t11)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaisgarcia.t11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-garcia11/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tha_grc)
