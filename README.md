@@ -24,6 +24,3 @@ Possuo formação técnica em Administração de Banco de Dados e Desenvolviment
 
 ### 📊 Linguagens mais Utilizadas
 ![Estatísticas do GitHub de linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgarcia&langs_count=8&layout=compact&theme=radical&bg_color=000)
-
-### 🎓 Certificados
-📁 [Acesse todos os meus certificados](https://drive.google.com/drive/folders/11hlk7TG7Bi0e_Ho0mQZroOKGQx5dc9AQ?usp=sharing)
