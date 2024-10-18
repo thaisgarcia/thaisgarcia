@@ -1,4 +1,4 @@
-<h1>👋 Olá, Eu sou a Thais Garcia!</h1> 
+<h1>👋 Olá, eu sou a Thais Garcia!</h1> 
 
 Sou estudante de Ciência de Dados e apaixonada por tecnologia. Ao longo dos últimos anos, venho desenvolvendo habilidades em análise de dados, machine learning e desenvolvimento de sistemas. Este é o meu espaço onde compartilho alguns dos meus projetos e contribuições. 🚀
 <br></br>
