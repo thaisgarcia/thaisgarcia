@@ -8,7 +8,6 @@ Sou estudante de Ciência de Dados e apaixonada por tecnologia. Ao longo dos úl
 - **2020-2022** - Ensino Médio com Qualificação Profissional de Administrador de Banco de Dados (Etec Jacinto Ferreira de Sá)
 - **2021-2022** - Técnico em Desenvolvimento de Sistemas (Etec Jacinto Ferreira de Sá)
 - **2023-2026** - Cursando Ciência de Dados (Fatec de Ourinhos)
-
 <br></br>
 
 <h3>🔗 Conecte-se comigo </h3> 
