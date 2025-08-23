@@ -12,7 +12,6 @@ Sou estudante de Ciência de Dados e apaixonada por tecnologia. Ao longo dos úl
 
 <h3>🔗 Conecte-se comigo </h3> 
 
-[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-007ACC?style=for-the-badge&logoColor=white)](https://www.dio.me/users/thaisgarcia_t11)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisgarcia.t11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-garcia11/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tha_grc)
@@ -29,6 +28,7 @@ Sou estudante de Ciência de Dados e apaixonada por tecnologia. Ao longo dos úl
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF8C00?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4682B4?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
