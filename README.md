@@ -36,9 +36,5 @@ Sou estudante de Ciência de Dados e apaixonada por tecnologia. Ao longo dos úl
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 <br></br>
 
-<h3> 📊 Linguagens mais Utilizadas </h3> 
-
-![Estatísticas do GitHub de linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgarcia&langs_count=8&layout=compact&theme=radical&bg_color=000)
-
 <br>
 <strong>Obrigada por visitar meu perfil! Se você achou meu trabalho interessante, sinta-se à vontade para me seguir no GitHub!</strong>
